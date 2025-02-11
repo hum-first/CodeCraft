@@ -1,6 +1,6 @@
 import './page.css';
 
-export default function Page() {
+export default function Home() {
   return (
     <div className="container">
       <nav className="navbar">
